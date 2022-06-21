@@ -66,7 +66,7 @@ def main():
         labels.append(label)
     fig.legend(labels, loc="upper right")
 
-    # plt.savefig("example05.png", dpi=200)
+    plt.show()
 
 
 if __name__ == "__main__":
